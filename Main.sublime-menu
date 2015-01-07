@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Selection",
+        "id": "selection",
+        "children":
+        [
+            { "caption": "-" },
+            {
+                "caption": "Align Selection Vertically",
+                "command": "vertical_align"
+            }
+        ]
+    }
+]
